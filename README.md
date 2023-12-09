@@ -1,6 +1,7 @@
 # leetcode
 LeetCode Problems
 
-Languages Used
+Solved using 
   - Python
-  - MySQL
+    - Pandas
+    - Pytorch
